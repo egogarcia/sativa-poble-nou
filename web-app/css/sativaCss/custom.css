@@ -1,0 +1,195 @@
+/* here you can put your own css to customize and override the theme */
+
+#listActiveGenetics {
+	margin-top:2%;
+	margin-left:1%;
+}
+
+#scrennEncima { 
+	position:absolute; top:0px; 
+	left:0px; 
+	margin:0px; 
+	padding:0px; 
+	width:100%; 
+	height:auto; 
+	background:url(/images/imageSativa/fondoScreenFirma.png) repeat; 
+}
+
+.removeGenetic {
+	cursor: pointer;
+}
+
+#newGenetic {
+	margin-right: 2%;
+}
+
+.imageSign {
+	width:40%;
+}
+.imagenGenerada { 
+	width:250px;
+	border:0px solid #006600; 
+	border-radius:3px; 
+	border-radius:3px;
+	-moz-border-radius:3px; 
+	-webkit-border-radius:3px; 
+}
+
+#resumBillTotal {
+	font-size:30px;
+}
+
+#renovationMemberBtn {
+	margin-bottom: 5px;
+}
+
+.center {
+	text-align: center;
+}
+
+#generarFirma{ 
+	position:absolute; 
+	top:6px; 
+	left:10px; 
+	margin:0px 0px 0px 0px; 
+	padding:8px 22px; 
+	height:auto; 
+	font-size:normal;
+}
+
+#limpiarFirma { 
+	position:absolute; 
+	top:6px; 
+	left:860px; 
+	margin:0px 0px 0px 0px; 
+	padding:8px 22px; 
+	height:auto; 
+	font-size:normal;
+}
+
+#canvasFirma { 
+ 	position:relative; 
+ 	margin:90px auto 800px auto; 
+ 	padding:0px; 
+ 	width:1000px; 
+ 	height:500px; 
+ }
+
+
+.textareaHistoric {
+	width:100%;
+	height: 100px;
+}
+
+.columnStep {
+	width:200px;
+	padding-right:40px;
+}
+
+#tableHistoric {
+	margin-top:5%;
+}
+
+#resumBillTotal {
+	margin-bottom:2%;
+}
+
+#resumBill {
+	margin-bottom:2%;
+}
+
+
+#resumBill p{
+	margin-right:1%;
+	padding:7px;
+}
+
+.geneticAdd {
+	margin-right:1%;
+	margin-bottom:1%;
+	margin-top:1%;
+	width:180px;
+}
+
+#tableGenetics tr td{
+	border-top: 0px;
+}
+
+
+.center {
+	text-align: center;
+	width:200px;
+}
+
+#textareaDisabled {
+	width:100%;
+	height:140px;
+}
+
+.gapPhoto {
+	border-style: solid;
+    border-width: 1px;
+ 
+}
+
+#snap {
+	width:300px;
+}
+
+#divCanvas {
+	margin-top:10%;
+}
+
+.tableStadistic {
+	margin-top:2%;
+}
+
+.tableStadistic2 {
+	margin-top:5%;
+}
+
+
+.textGreen {
+	color:green;
+	font-weight: bold;
+}
+
+
+.textBlue {
+	color:blue;
+	font-weight: bold;
+}
+
+.textRed {
+	color:red;
+	font-weight: bold;
+}
+
+table#tableGuests tr td.valignInvitate{
+padding-top:2%;
+
+}
+
+#showImageTop {
+	z-index:99999 !important;
+	position:absolute;
+	top:40%;
+	left:40%;
+}
+
+#tableHistoricCustom {
+	margin-top:10px;
+}
+
+table#tableHistoricCustom > tbody > tr > td.alignTd {
+	padding-top: 5%;
+}
+
+
+.showAlarmGuest {
+	margin-top:20%;
+}
+
+#imageAlertGuest{
+	float:right;
+}
